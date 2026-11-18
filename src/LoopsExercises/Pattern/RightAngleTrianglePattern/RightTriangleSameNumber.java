@@ -1,4 +1,4 @@
-package LoopsExercises.Pattern;
+package LoopsExercises.Pattern.RightAngleTrianglePattern;
 import java.util.Scanner;
 
 //Write a program in C to make such a pattern like a right angle triangle with a number which will repeat a number in a row.

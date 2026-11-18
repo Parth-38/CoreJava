@@ -1,4 +1,4 @@
-package LoopsExercises.Pattern;
+package LoopsExercises.Pattern.RightAngleTrianglePattern;
 //Write a program in C to display a pattern like a right angle triangle using an asterisk.
 import static java.lang.IO.*;
 

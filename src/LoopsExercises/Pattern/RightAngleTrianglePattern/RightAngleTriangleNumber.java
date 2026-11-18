@@ -1,4 +1,4 @@
-package LoopsExercises.Pattern;
+package LoopsExercises.Pattern.RightAngleTrianglePattern;
 
 import java.util.Scanner;
 
