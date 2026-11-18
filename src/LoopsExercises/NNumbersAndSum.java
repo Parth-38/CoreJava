@@ -3,7 +3,7 @@ package LoopsExercises;
 import static java.lang.IO.*;
 
 //Display n numbers and thier Sum as well
-public class Q1 {
+public class NNumbersAndSum {
     void main() {
         int n = Integer.parseInt(readln("Enter a number : "));
         int sum = 0;

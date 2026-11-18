@@ -1,7 +1,7 @@
 package LoopsExercises.Pattern.RightAngleTrianglePattern;
 import java.util.Scanner;
 
-//Write a program in C to make such a pattern like a right angle triangle with a number which will repeat a number in a row.
+//Write a program in Java to make such a pattern like a right angle triangle with a number which will repeat a number in a row.
 public class RightTriangleSameNumber {
     static void main() {
         Scanner sc = new Scanner(System.in);

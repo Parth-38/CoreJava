@@ -1,11 +1,9 @@
 package LoopsExercises;
 
-import java.math.BigInteger;
-
 import static java.lang.IO.*;
 
 //Display Cube of Numbers Up to an Integer
-public class Q2 {
+public class Cube {
     static void main() {
         int n = Integer.parseInt(readln("Enter a number : "));
         for(int i = 1; i<=n; i++){

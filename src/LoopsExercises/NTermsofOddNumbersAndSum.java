@@ -1,12 +1,9 @@
 package LoopsExercises;
 
-import javax.swing.plaf.basic.BasicInternalFrameTitlePane;
-import java.math.MathContext;
-
 import static java.lang.IO.*;
 
 //Write a java program to display the n terms of odd natural numbers and their sum.
-public class Q3 {
+public class NTermsofOddNumbersAndSum {
     static void main() {
         int n = Integer.parseInt(readln("Enter a nth term : "));
         int sum = 0;
