@@ -12,8 +12,8 @@ public class PyramidPatternAsterisks {
             for(int y =1;y<=rows-x;y++){
                 System.out.print(" ");
             }
-            for(int z=1;z<=2*x-1;z++){
-                System.out.print("*");
+            for(int z=1;z<=x;z++){
+                System.out.print("* ");
             }
             System.out.println();
         }

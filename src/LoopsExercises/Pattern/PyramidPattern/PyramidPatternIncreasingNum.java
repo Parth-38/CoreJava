@@ -16,9 +16,8 @@ public class PyramidPatternIncreasingNum {
                 //This loop is for spaces. a=n-1 for first, b= a-1, c=b-1..........and so on
                 System.out.print(" ");
             }
-            for (int k = 1; k <= 2 * i - 1; k++) {
-                /// We want odd number one after another so that's why we used logic of odd numbers( 2 * n -1)
-                System.out.print(num);
+            for (int k = 1; k <= i; k++) {
+                System.out.print(num +" ");
                 num++;
             }
             System.out.println();
